@@ -1,0 +1,7 @@
+{
+   "name":"Conductor",
+   "description":"minimal control flow: run, chain, series",
+   "version":"0.0.1",
+   "main":"./domain/Conductor.coffee"
+
+}
